@@ -9,6 +9,4 @@ int main()
 
     printf("Enter the string: ");
     scanf ("%d%d%d%d");
-
-
 }
